@@ -1,0 +1,11 @@
+.component{
+    width: 30%;
+    background: yellow;
+    color: black;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.component:nth-child(2){
+    background: blue;
+}
